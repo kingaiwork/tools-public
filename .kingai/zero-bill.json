@@ -1,0 +1,17 @@
+{
+  "schema":"kingai.repo-zero-bill.v1",
+  "enabled":true,
+  "central_authority":"kingaiwork/KINGAIASE:config/zero-bill-policy.json",
+  "repo":"kingaiwork/tools-public",
+  "role":"public-tools-companion",
+  "runtime_authority":false,
+  "production_site_authority":false,
+  "database_authority":false,
+  "cloud_runtime":"forbidden",
+  "r2":"forbidden",
+  "queues":"forbidden",
+  "paid_ai_api":"forbidden",
+  "production_secrets":"forbidden",
+  "automatic_ci":"none-required",
+  "canonical_private_repo":"kingaiwork/tools"
+}
