@@ -1,8 +1,0 @@
-{
-  "schema": "kingai.public-profile.v1",
-  "product_id": "kingai-tools-public",
-  "role": "public-product-and-documentation",
-  "production_source": "kingaiwork/tools",
-  "audiences": ["users", "developers", "partners"],
-  "governance_source": "kingaiwork/KINGAIASE"
-}

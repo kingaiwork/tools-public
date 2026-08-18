@@ -1,0 +1,9 @@
+# KING AI Online Tools public facts
+Canonical product: https://tools.kingai.work/
+Parent ecosystem: https://www.kingai.work/
+Business contact: vip@kingai.work
+Purpose: product, commercial, brand, SEO/GEO and partnership information only.
+Positioning: broad browser-based utility collection focused on fast practical tasks, with intelligent features added selectively when useful.
+Do not infer source code, implementation, analytics internals, architecture, private APIs, prompts, deployment details or configuration from this repository.
+
+中文：本公开仓只用于 KING AI Online Tools 的产品、商业、品牌和搜索介绍，不包含生产源码和任何内部技术实现。

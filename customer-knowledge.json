@@ -1,8 +1,0 @@
-{
-  "schema":"kingai.customer-knowledge-source.v1",
-  "project_id":"tools",
-  "visibility":"public",
-  "customer_safe_paths":["README.md","docs/FEATURES.md","docs/USAGE.md","docs/API.md","docs/ROADMAP.md","docs/SECURITY.md","CHANGELOG.md"],
-  "publish_policy":"Only public product facts, usage guidance, feature lists and explicitly public interfaces may become customer answers. Production source, private deployment and security implementation are never knowledge sources.",
-  "private_repository_access":false
-}

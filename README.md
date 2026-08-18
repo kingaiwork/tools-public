@@ -1,135 +1,72 @@
 # KING AI Online Tools
 
-**Public project overview repository — source code is intentionally not published here.**
+**Fast, practical browser tools — a useful entry point into the wider KING AI ecosystem.**
 
-🌐 **Live Website:** https://tools.kingai.work  
-🌐 **KING AI Official Website:** https://www.kingai.work  
-✉️ **Business & Partnership:** vip@kingai.work
+Use the product: https://tools.kingai.work/  
+KING AI: https://www.kingai.work/  
+Business & partnerships: vip@kingai.work
 
-KING AI Online Tools is a bilingual English + Simplified Chinese utility platform with 130+ practical browser tools for everyday calculations, finance, health references, unit conversion, text processing, developer workflows, SEO preparation, date/time tasks and common image operations.
+This public repository is a **commercial product showcase only**. It contains no production source code, implementation details, private APIs, internal architecture, deployment instructions, analytics internals, prompts or confidential configuration.
 
-This public repository exists for project information, documentation, screenshots, changelog, selected public interfaces and roadmap information. The production source code, private deployment configuration, credentials, internal business logic and security-sensitive implementation remain private.
+## English
 
-## Highlights
+### Useful first. Intelligent when it helps.
 
-- 130+ practical online tools
-- English + Simplified Chinese
-- Popular tools surfaced by search-demand signals
-- Responsive mobile and desktop interface
-- Lightweight static-first architecture
-- Many operations run directly in the browser
-- SEO/GEO-oriented public information structure
-- Adaptive day-of-week and seasonal visual themes
-- Public website with private source-code model
+KING AI Online Tools is a growing browser-based utility collection designed to solve small, frequent problems quickly. The product strategy is intentionally practical: users should be able to arrive with a task, complete it with minimal friction and discover a broader set of useful capabilities without installing heavy software.
 
-## Popular Tool Categories
+The collection spans everyday productivity, text, data, conversion, calculation, formatting, developer utilities and other lightweight browser workflows. Where intelligent assistance genuinely improves the result, the product family can add it without turning every simple task into an AI conversation.
 
-| Category | Examples |
-|---|---|
-| Calculators | Percentage, age, average, ratio |
-| Finance | Mortgage, loan, tip, discount, ROI, savings |
-| Health | BMI, calorie needs, BMR, body fat, water intake |
-| Converters | Length, weight, temperature, area, volume, speed |
-| Text | Word count, character count, case conversion, Base64 |
-| Developer | JSON formatter, UUID, password, regex, timestamp |
-| SEO | Meta/title checks, UTM builder, robots.txt generator |
-| Date & Time | Stopwatch, countdown, world clock, date difference |
-| Image | Resize, compress, rotate, PNG/JPEG/WebP conversion |
+### Why a tools platform matters
 
-## Repository Structure
+A utility product can become one of the easiest ways for new users to discover a brand. Each tool solves a narrow problem, but the collection creates a much larger acquisition surface.
 
-```text
-tools-public/
-├── README.md
-├── CHANGELOG.md
-├── LICENSE
-├── docs/
-│   ├── ARCHITECTURE.md
-│   ├── FEATURES.md
-│   ├── USAGE.md
-│   ├── API.md
-│   ├── ROADMAP.md
-│   └── SECURITY.md
-└── screenshots/
-    └── README.md
-```
+- **Immediate value:** users can often complete a task in seconds.
+- **Low learning curve:** small tools do not require onboarding before they become useful.
+- **Broad discovery surface:** many different problems can lead users into the same product family.
+- **Search-friendly demand:** practical tools naturally match high-intent search queries.
+- **Cross-product entry:** users who trust a useful free tool may later explore Office, Customer OS, OPS, Security or other KING AI products.
 
-## Public / Private Boundary
+### User scenarios
 
-This repository may contain:
+**Everyday productivity** — Quick calculations, formatting, conversions and document-adjacent tasks.
 
-- Project description
-- Public feature lists
-- Live website links
-- Screenshots and demos
-- High-level architecture
-- Changelog
-- Usage instructions
-- Selected public API/interface documentation
-- Contact details
-- Product roadmap
+**Creators and marketers** — Text preparation, lightweight content utilities and repetitive formatting work.
 
-This repository does **not** contain:
+**Developers and technical users** — Common data, encoding, inspection and transformation tasks presented in a simpler browser experience.
 
-- Production source code
-- API keys, tokens or credentials
-- Private deployment configuration
-- Database schemas
-- Proprietary orchestration logic
-- Internal business rules
-- Private endpoints
-- Security-sensitive implementation details
+**Business teams** — Small repeatable utilities that eliminate unnecessary manual steps.
 
-## Architecture Summary
+### Product direction
 
-The public site is designed around a lightweight static-first architecture. The production source repository is private. Public website delivery is separated from source-code visibility, allowing the website to remain globally accessible while proprietary implementation stays private.
+The long-term opportunity is to become a high-utility destination with a large collection of deterministic tools plus carefully chosen intelligent features. Search, personalization, saved favorites, workflow chaining and deeper ecosystem connections can expand the experience as they are released.
 
-See [Architecture Overview](docs/ARCHITECTURE.md).
+### Commercial opportunity
 
-## Documentation
+The tools platform can create value through audience acquisition, premium utilities, business productivity, embedded/white-label opportunities, sponsorship or strategic partnerships, and natural cross-sell into the wider KING AI portfolio.
 
-- [Feature Overview](docs/FEATURES.md)
-- [Usage Guide](docs/USAGE.md)
-- [Public API / Interface Notes](docs/API.md)
-- [Architecture Overview](docs/ARCHITECTURE.md)
-- [Security & Disclosure Policy](docs/SECURITY.md)
-- [Roadmap](docs/ROADMAP.md)
-- [Changelog](CHANGELOG.md)
+A free utility layer is strategically useful even before direct monetization because it creates product discovery, search visibility and repeated user trust.
 
-## Status
+## 中文
 
-KING AI Online Tools is an actively evolving public utility platform. Tool priority, interface quality, SEO/GEO structure and public documentation may continue to improve as user demand and the web ecosystem change.
+### 先解决问题，需要时再加入智能
 
----
+KING AI Online Tools 是一组持续扩展的浏览器实用工具，目标是让用户用最少步骤解决高频小问题。用户应该带着任务进入，用几秒或几分钟完成，而不是先学习一个复杂系统。
 
-# KING AI 在线工具
+工具覆盖日常生产力、文本、数据、转换、计算、格式化、开发者工具等场景。只有在 AI 真正能够提高结果时才加入智能能力，不把每一个简单任务都强行变成聊天。
 
-**这是项目公开展示仓库，生产源码不会在这里公开。**
+### 为什么工具平台很重要
 
-🌐 **在线网站：** https://tools.kingai.work  
-🌐 **KING AI 官网：** https://www.kingai.work  
-✉️ **商务与合作：** vip@kingai.work
+单个工具解决一个小问题，但大量工具组合以后，会形成非常广的用户入口和搜索入口。
 
-KING AI 在线工具是一个中英文双语在线实用工具平台，提供 130+ 常用浏览器工具，覆盖日常计算、金融、健康参考、单位换算、文本处理、开发辅助、SEO、日期时间和常见图片处理。
+- **立即有用：** 很多任务几秒就能完成；
+- **学习成本低：** 不需要复杂注册和培训；
+- **自然搜索流量：** 实用工具与高意图搜索非常匹配；
+- **长期品牌信任：** 用户因为“真的好用”而记住 KING AI；
+- **产品互推：** 可以自然把用户带到 Office、Security、OPS、Customer OS 等更完整产品。
 
-本公开仓库仅用于展示项目介绍、公开文档、截图、更新日志、愿意公开的接口说明与未来路线图。生产源码、私有部署配置、密钥、内部商业逻辑及安全敏感实现均保留在私有系统中。
+### 商业方向
 
-## 核心特点
+可以探索高级工具、企业生产力、嵌入/白标、合作推广，以及向 KING AI 其他产品的自然转化。即使大量工具保持免费，它们仍然可以承担流量、品牌、SEO/GEO 和用户信任入口的战略角色。
 
-- 130+ 常用在线工具
-- 中文 + English
-- 按公开搜索需求信号优先展示热门工具
-- 桌面和手机自适应
-- 轻量静态优先架构
-- 大量处理直接在浏览器端完成
-- SEO / GEO 友好公开信息结构
-- 周一至周日及节日轻量主题变化
-- 公开网站 + 私有源码分离模式
-
-## 公开与私有边界
-
-本仓库可以公开：项目介绍、功能列表、在线地址、截图、架构概览、更新日志、使用说明、部分公开接口文档、联系方式和路线图。
-
-本仓库不会公开：核心源码、API Key、Token、数据库结构、生产部署细节、内部商业逻辑、私有接口、安全策略实现和其他敏感信息。
-
-更多信息请阅读 `docs/` 目录。
+**Use now:** https://tools.kingai.work/  
+**Business:** vip@kingai.work
